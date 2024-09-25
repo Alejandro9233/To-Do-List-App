@@ -81,6 +81,7 @@
 		FAB5A9C32C73BA5100E8E77D = {
 			isa = PBXGroup;
 			children = (
+				FA8991982CA4527E00662927 /* .gitignore */,
 				FAB5A9CE2C73BA5100E8E77D /* ToDoList */,
 				FAB5A9CD2C73BA5100E8E77D /* Products */,
 			);
@@ -97,7 +98,6 @@
 		FAB5A9CE2C73BA5100E8E77D /* ToDoList */ = {
 			isa = PBXGroup;
 			children = (
-				FA8991982CA4527E00662927 /* .gitignore */,
 				FAB5A9E82C73C43E00E8E77D /* Other */,
 				FAB5A9E72C73C41900E8E77D /* Models */,
 				FAB5A9E52C73C1EB00E8E77D /* Views */,
